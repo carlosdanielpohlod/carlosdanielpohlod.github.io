@@ -1,0 +1,22 @@
+{
+    "experiences": [
+        {
+            "title": "Developer",
+            "subtitle": "Software engineer",
+            "workType": "Full-time",
+            "workDescription": [
+                "Working with Ruby On Rails as a backend developer"
+            ],
+            "dateText": "11/2021 – Present"
+        },
+        {
+            "title": "Free-lancer developer",
+            "subtitle": "NPX imóveis",
+            "workType": "Free-lancer",
+            "workDescription": [
+                "A immobile marketplace"
+            ],
+            "dateText": "01/2019 – 05/2021"
+        }
+    ]
+}

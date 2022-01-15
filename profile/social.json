@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/carlos-daniel-pohlod-78b86616b/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/carlosdanielpohlod"
+        },
+        {
+            "network" : "email",
+            "href": "carlospohlod@gmail.com"
+        }
+    ]
+}

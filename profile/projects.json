@@ -1,0 +1,47 @@
+{
+    "projects" : [       
+        {
+            "image": "https://s2.glbimg.com/3auOxS3cG2mc_H5jFXDpxC7ol-w=/e.glbimg.com/og/ed/f/original/2016/09/12/dr-alan-turing-2956483.jpg",
+            "title": "Nationally awarded project",
+            "bodyText": "- An article and project premied into National Meeting of Artificial and Computational Intelligence",
+            "links": [
+                {
+                    "text": "Publication",
+                    "href": "https://sol.sbc.org.br/index.php/eniac/article/view/18249"
+                }
+            ],
+            "tags" : [
+                "Scientific",
+                "Artificial intelligence",
+                "Research"
+            ]
+        },
+        {
+            "image" : "https://github.com/carlosdanielpohlod/TCC-ML-in-ecommerce-and-node-ecommerce-system/raw/main/ilustracao_repositorio.PNG",
+            "title": "Ecommerce with IA recommendation system",
+            "bodyText": "- A complete platform in development make with Node.js, Python and Vue.js, including a recommendation system",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/carlosdanielpohlod/TCC-ML-in-ecommerce-and-node-ecommerce-system"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Node.js",
+                "Artificial Inteligence",
+                "Ecommerce"
+                
+            ]
+        },
+        {
+            "image" : "http://npximoveis.com.br/storage/site/logo.png",
+            "title": "NPX Imóveis",
+            "bodyText": "-Marketplace Website made with Laravel and Blade",
+            "tags" : [
+                "Laravel",
+                "Martetplace"
+            ]
+        }
+    ]
+}
