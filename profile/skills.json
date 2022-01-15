@@ -2,9 +2,16 @@
     "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
     "skills": [{
      
-            "title": "Languages & Databases",
+            "title": "Languages",
             "items" : [
-     
+                {
+                    "icon": "images/skills/ruby.png",
+                    "title": "Ruby"
+                },
+                {
+                    "icon": "images/skills/c++.png",
+                    "title": "C ++"
+                },
                 {
                     "icon": "images/skills/java.png",
                     "title": "Java"
@@ -22,33 +29,54 @@
                     "title": "Python"
                 },
                 {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Nodejs"
+                }
+                
+        ]},
+        {
+        "title": "Databases",
+            "items" : [
+                {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/postgresql.png",
+                    "title": "Postgres"
+                },
+                {
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "MongoDB"
                 }
+               
         ]},
         {
             "title": "Frameworks & Technologies",
             "items" : [
+          
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "icon": "images/skills/rails.png",
+                    "title": "Ruby on Rails"
+                },
+
+                {
+                    "icon": "images/skills/laravel.png",
+                    "title": "Laravel"
                 },
                 {
-                    "icon": "images/skills/react.png",
-                    "title": "React"
-                },
-                {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
+                    "icon": "images/skills/vue.png",
+                    "title": "Vue"
                 }
+                
             ]
         },
         {
             "title" : "Tools & Platforms",
             "items": [
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "icon": "images/skills/vscode.png",
+                    "title": "VS code"
                 },
                 {
                     "icon": "images/skills/git.png",
@@ -57,6 +85,14 @@
                 {
                     "icon": "images/skills/docker.png",
                     "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/heroku-server.png",
+                    "title": "Heroku Server"
+                },
+                {
+                    "icon": "images/skills/lightsail.png",
+                    "title": "Light Sail"
                 }
             ]
     }
