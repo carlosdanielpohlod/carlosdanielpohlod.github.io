@@ -1,5 +1,37 @@
 {
-    "projects" : [       
+    "projects" : [  
+        {
+            "image": "https://seer.sct.embrapa.br/public/journals/3/pageHeaderTitleImage_pt_BR.png",
+            "title": "Mapeamento sistemático de detecção e contagem de plantas em imagens agrícolas usando aprendizagem de máquina – proposta de modelagem para desenvolvimento de sistema",
+            "bodyText": "Colaboration in an artifitial inteligence project",
+            "links": [
+                {
+                    "text": "Publication",
+                    "href": "https://seer.sct.embrapa.br/index.php/cct/article/view/26950"
+                }
+            ],
+            "tags" : [
+                "Scientific",
+                "Artificial intelligence",
+                "Research"
+            ]
+        },
+        {
+            "image": "https://www.agraria.pro.br/ojs32/public/journals/1/cover_issue_64_pt_BR.jpg",
+            "title": "Detection and counting of plants via deep learning using images collected by RPA",
+            "bodyText": "Colaboration in an artifitial inteligence project",
+            "links": [
+                {
+                    "text": "Publication",
+                    "href": "https://www.agraria.pro.br/ojs32/index.php/RBCA/article/view/v17i2a1353"
+                }
+            ],
+            "tags" : [
+                "Scientific",
+                "Artificial intelligence",
+                "Research"
+            ]
+        },     
         {
             "image": "https://s2.glbimg.com/3auOxS3cG2mc_H5jFXDpxC7ol-w=/e.glbimg.com/og/ed/f/original/2016/09/12/dr-alan-turing-2956483.jpg",
             "title": "Nationally awarded project",
