@@ -1,13 +1,22 @@
 {
     "experiences": [
         {
-            "title": "Developer at Codeminer 42",
+            "title": "Agrisafe Software engineer by Codeminer 42",
             "subtitle": "Software engineer",
             "workType": "Full-time",
             "workDescription": [
-                "Working with Ruby On Rails as a backend developer"
+                "Works with: geolocalization data, payment integrations, software infrastructure projecting, asynchronous processing, software deployment, and maintenance. Other activities involved meetings to elaborate features; weekly activities elaboration for other developers into the backend squad."
             ],
-            "dateText": "11/2021 – Present"
+            "dateText": "05/2022 – Present"
+        },
+        {
+            "title": "A.karta Software developer by Codeminer 42",
+            "subtitle": "Software engineer",
+            "workType": "Full-time",
+            "workDescription": [
+                "Full stack developer"
+            ],
+            "dateText": "11/2021 – 05/2022"
         },
         {
             "title": "Free-lancer developer",
@@ -16,7 +25,7 @@
             "workDescription": [
                 "A immobile marketplace"
             ],
-            "dateText": "01/2019 – 05/2021"
+            "dateText": "01/2019 – 09/2021"
         }
     ]
 }
