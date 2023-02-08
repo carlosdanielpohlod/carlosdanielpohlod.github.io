@@ -1,9 +1,9 @@
 {
     "projects" : [  
         {
-            "image": "https://s2.glbimg.com/3auOxS3cG2mc_H5jFXDpxC7ol-w=/e.glbimg.com/og/ed/f/original/2016/09/12/dr-alan-turing-2956483.jpg",
+            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqcnZzPOM0u6M9SAFkOH7E-dY8kldvs0rk0Rx0LnK0TalOQOD5",
             "title": "Mapeamento sistemático de detecção e contagem de plantas em imagens agrícolas usando aprendizagem de máquina – proposta de modelagem para desenvolvimento de sistema",
-            "bodyText": "Colaboration in an artifitial inteligence project",
+            "bodyText": "Colaboration in an artifitial inteligence project published into Embrapa",
             "links": [
                 {
                     "text": "Publication",
@@ -17,7 +17,7 @@
             ]
         },
         {
-            "image": "https://s2.glbimg.com/3auOxS3cG2mc_H5jFXDpxC7ol-w=/e.glbimg.com/og/ed/f/original/2016/09/12/dr-alan-turing-2956483.jpg",
+            "image": "images/projects/counting-plants.jpeg",
             "title": "Detection and counting of plants via deep learning using images collected by RPA",
             "bodyText": "Colaboration in an artifitial inteligence project",
             "links": [
@@ -64,15 +64,6 @@
                 "Artificial Inteligence",
                 "Ecommerce"
                 
-            ]
-        },
-        {
-            "image" : "http://npximoveis.com.br/storage/site/logo.png",
-            "title": "NPX Imóveis",
-            "bodyText": "-Marketplace Website made with Laravel and Blade",
-            "tags" : [
-                "Laravel",
-                "Martetplace"
             ]
         }
     ]
