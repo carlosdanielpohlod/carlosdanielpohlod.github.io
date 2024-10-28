@@ -9,20 +9,12 @@
                     "title": "Ruby"
                 },
                 {
-                    "icon": "images/skills/c++.png",
-                    "title": "C ++"
-                },
-                {
                     "icon": "images/skills/java.png",
                     "title": "Java"
                 },
                 {
                     "icon": "images/skills/php.png",
                     "title": "PHP"
-                },
-                {
-                    "icon": "images/skills/js.png",
-                    "title": "JavaScript"
                 },
                 {
                     "icon": "images/skills/python.png",
@@ -59,29 +51,19 @@
                     "icon": "images/skills/rails.png",
                     "title": "Ruby on Rails"
                 },
-
                 {
                     "icon": "images/skills/laravel.png",
                     "title": "Laravel"
                 },
                 {
-                    "icon": "images/skills/vue.png",
-                    "title": "Vue"
+                    "icon": "images/skills/react.png",
+                    "title": "React"
                 }
-                
             ]
         },
         {
             "title" : "Tools & Platforms",
             "items": [
-                {
-                    "icon": "images/skills/vscode.png",
-                    "title": "VS code"
-                },
-                {
-                    "icon": "images/skills/git.png",
-                    "title": "Git"
-                },
                 {
                     "icon": "images/skills/docker.png",
                     "title": "Docker"
@@ -93,6 +75,14 @@
                 {
                     "icon": "images/skills/lightsail.png",
                     "title": "Light Sail"
+                },
+                {
+                    "icon": "images/skills/kafka.png",
+                    "title": "Apache Kafka "
+                },
+                {
+                    "icon": "images/skills/open-telemetry.png",
+                    "title": "Open Telemetry"        
                 }
             ]
     }
