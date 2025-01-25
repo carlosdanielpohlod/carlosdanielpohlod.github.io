@@ -1,0 +1,5 @@
+{
+    "about": "I hold a Bachelor's degree in Computer Science and specialize as a consultant, backend programmer, and DevOps expert. With diverse experience across various companies, I've collaborated with different teams, business models, and organizational structures. \n\nMy expertise includes Ruby on Rails, with proficiency in testing frameworks like RSpec and Minitest. I have knowledge in messaging systems such as Kafka and RabbitMQ, and front-end development with React. Additionally, I am skilled in database management with Postgres and MySQL, and have experience with AWS services and Heroku. I excel in configuring CI/CD pipelines using GitHub Actions and GitLab CI. Throughout my career, I've gained extensive experience in providing consulting services across different sectors.",
+    
+    "imageSource": "./images/about/me.jpeg"
+}
