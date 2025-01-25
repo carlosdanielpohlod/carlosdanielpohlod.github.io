@@ -1,33 +1,39 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "ClickFunnels Platform Reliability Engineer by Codeminer42",
+            "subtitle": "Platform Reliability Engineer",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
-            ],
-            "dateText": "06/20XX – Present"
+                "Working as a platform reliability engineer in a platform with thousands of users, I improved and optimized features, created and implemented instrumentation tools (integrating with New Relic), and developed system tests for complex features. The most common technologies used were Kafka, Rails, PostgreSQL, Sidekiq, New Relic, and Circle CI."           ],
+            "dateText": "05/2022 – current"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Agrisafe Software engineer by Codeminer 42",
+            "subtitle": "Software engineer",
+            "workType": "Full-time",
             "workDescription": [
-                "Worked on abc."
+                "I worked as a lead backend developer, focusing on design, development, developer training, and recruitment. I used key technologies including Ruby on Rails, PostgreSQL, Sidekiq, and geospatial data processing tools like Geokit and Geocoder. Additionally, I managed service configuration and administration using GitLab CI, GitHub Actions, and Heroku.\n The features I developed included integrating with APIs from major companies such as the Brazilian stock exchange and payment gateways, used by leading financial entities in Brazil"
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "05/2022 – 03/2024"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "A.karta Software developer by Codeminer 42",
+            "subtitle": "Software engineer",
+            "workType": "Full-time",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "I worked as a lead developer, operating full-stack in frontend and backend design and development. The features developed included asynchronous services using Sidekiq and Rails. In addition to development, I managed the system infrastructure, involving GitLab CI and Heroku."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "11/2021 – 05/2022"
+        },
+        {
+            "title": "Free-lancer developer",
+            "subtitle": "NPX imóveis",
+            "workType": "Free-lancer",
+            "workDescription": [
+                "I freelanced on the development of a real estate Marketplace platform tailored exclusively for real estate brokers, operating on a subscription-based model. My responsibilities encompassed leading the team, full-stack development, and direct client interaction. I contributed to feature planning and development using Laravel, MySQL, Bootstrap, and integrated Machine Learning technologies with Python."
+            ],
+            "dateText": "01/2019 – 09/2021"
         }
     ]
 }
