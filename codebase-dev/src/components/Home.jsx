@@ -1,7 +1,6 @@
 import React from 'react';
 import Typewriter from 'typewriter-effect';
 import Fade from 'react-reveal';
-import Social from './Social';
 
 const styles = {
   nameStyle: {
@@ -88,9 +87,14 @@ const beacons = [
     imageSrc: 'images/home/linkedin.png',
   },
   {
-    label: 'YouTube',
+    label: 'YouTube channel',
     url: 'https://www.youtube.com/@carlospohlod',
     imageSrc: 'images/home/youtube.png',
+  },
+  {
+    label: 'Instagram',
+    url: 'https://www.instagram.com/carlospohlod/',
+    imageSrc: 'images/home/instagram.png',
   },
 ];
 
@@ -103,7 +107,6 @@ const handleMouseLeave = (e) => {
 };
 
 function Home() {
-  const name = 'Carlos Pohlod';
   const roles = [
     'Learn Ruby with me! <img src="https://i.pinimg.com/originals/3f/f8/de/3ff8de311854ae91dae1919f7806ff86.gif" width="50px" height="50px">',
     'and start your journey in backend development',
@@ -113,7 +116,6 @@ function Home() {
   return (
     <Fade>
       <div style={styles.mainContainer}>
-        <h1 style={styles.nameStyle}>{name}</h1>
         <div style={{ flexDirection: 'row', display: 'flex', alignItems: 'center' }}>
           <Typewriter
             options={{
@@ -124,15 +126,18 @@ function Home() {
           />
         </div>
 
-        <Social />
-
-        <div style={styles.imageContainer}>
+        <a
+          href="https://www.youtube.com/watch?v=6VhH086qI6M&list=PLO1AsvDsQljeLC70e3dfqyVRBvbDP9XfA"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={styles.imageContainer}
+        >
           <img
             src="images/home/youtube_banner.png"
             alt="Banner do curso Ruby"
             style={styles.bannerImage}
           />
-        </div>
+        </a>
 
         <div style={styles.banner}>
           🇧🇷 [Pt-BR] Aprenda Ruby do zero até o backend, grátis!
