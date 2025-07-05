@@ -1,0 +1,70 @@
+{
+    "projects" : [  
+        {
+            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqcnZzPOM0u6M9SAFkOH7E-dY8kldvs0rk0Rx0LnK0TalOQOD5",
+            "title": "Mapeamento sistemático de detecção e contagem de plantas em imagens agrícolas usando aprendizagem de máquina – proposta de modelagem para desenvolvimento de sistema",
+            "bodyText": "Colaboration in an artifitial inteligence project published into Embrapa",
+            "links": [
+                {
+                    "text": "Publication",
+                    "href": "https://seer.sct.embrapa.br/index.php/cct/article/view/26950"
+                }
+            ],
+            "tags" : [
+                "Scientific",
+                "Artificial intelligence",
+                "Research"
+            ]
+        },
+        {
+            "image": "images/projects/counting-plants.jpeg",
+            "title": "Detection and counting of plants via deep learning using images collected by RPA",
+            "bodyText": "Colaboration in an artifitial inteligence project",
+            "links": [
+                {
+                    "text": "Publication",
+                    "href": "https://www.agraria.pro.br/ojs32/index.php/RBCA/article/view/v17i2a1353"
+                }
+            ],
+            "tags" : [
+                "Scientific",
+                "Artificial intelligence",
+                "Research"
+            ]
+        },     
+        {
+            "image": "https://s2.glbimg.com/3auOxS3cG2mc_H5jFXDpxC7ol-w=/e.glbimg.com/og/ed/f/original/2016/09/12/dr-alan-turing-2956483.jpg",
+            "title": "Nationally awarded project",
+            "bodyText": "- An article and project premied into National Meeting of Artificial and Computational Intelligence",
+            "links": [
+                {
+                    "text": "Publication",
+                    "href": "https://sol.sbc.org.br/index.php/eniac/article/view/18249"
+                }
+            ],
+            "tags" : [
+                "Scientific",
+                "Artificial intelligence",
+                "Research"
+            ]
+        },
+        {
+            "image" : "https://github.com/carlosdanielpohlod/TCC-ML-in-ecommerce-and-node-ecommerce-system/raw/main/ilustracao_repositorio.PNG",
+            "title": "Ecommerce with IA recommendation system",
+            "bodyText": "- A complete platform in development make with Node.js, Python and Vue.js, including a recommendation system",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/carlosdanielpohlod/TCC-ML-in-ecommerce-and-node-ecommerce-system"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Node.js",
+                "Artificial Inteligence",
+                "Ecommerce"
+                
+            ]
+        }
+    ]
+}

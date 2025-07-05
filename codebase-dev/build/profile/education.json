@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Feb 2018 - Mar 2022",
+            "cardTitle": "Bachelor, Computer Science",
+            "cardSubtitle":"Midwest University - UNICENTRO, Guarapuava",
+            "cardDetailedText": "Brazilian Public University",
+            "icon" : {
+                "src": "images/education/unicentro.jpg"
+            }
+        },
+        {
+            "title": "Dez 2017",
+            "cardTitle": "High School integrated with computing technical course",
+            "cardSubtitle":"Colégio Estadual Antônio Dorigon, Pitanga",
+            "cardDetailedText": "High school"
+        }
+    ]
+}
