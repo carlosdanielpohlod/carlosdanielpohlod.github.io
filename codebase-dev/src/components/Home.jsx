@@ -104,7 +104,6 @@ const handleMouseLeave = (e) => {
 function Home() {
   const roles = [
     'Learn Ruby with me! <img src="https://i.pinimg.com/originals/3f/f8/de/3ff8de311854ae91dae1919f7806ff86.gif" width="50px" height="50px">',
-    'and start your journey in backend development',
     '',
   ];
 
