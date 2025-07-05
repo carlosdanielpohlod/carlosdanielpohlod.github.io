@@ -42,12 +42,7 @@ const styles = {
     textAlign: 'center',
     marginTop: '1.5rem',
     marginBottom: '1rem',
-  },
-  secondaryBanner: {
-    color: '#aaa',
-    fontSize: '1rem',
-    textAlign: 'center',
-    marginBottom: '1.5rem',
+    textDecoration: 'none',
   },
   beaconList: {
     display: 'flex',
@@ -127,33 +122,23 @@ function Home() {
         </div>
 
         <a
+          style={styles.banner}
           href="https://www.youtube.com/watch?v=6VhH086qI6M&list=PLO1AsvDsQljeLC70e3dfqyVRBvbDP9XfA"
           target="_blank"
           rel="noopener noreferrer"
-          style={styles.imageContainer}
         >
-          <img
-            src="images/home/youtube_banner.png"
-            alt="Banner do curso Ruby"
-            style={styles.bannerImage}
-          />
+          🇧🇷 [Pt-BR] Aprenda Ruby do zero até o backend, grátis!
         </a>
 
-        <div style={styles.banner}>
-          🇧🇷 [Pt-BR] Aprenda Ruby do zero até o backend, grátis!
-        </div>
-
-        <div style={styles.secondaryBanner}>
-          👉 Learn advanced Ruby with my LinkedIn posts on
-          <a
-            href="https://www.linkedin.com/in/carlospohlod/"
-            target="_blank"
-            rel="noopener noreferrer"
-            style={{ color: '#facc15', textDecoration: 'underline' }}
-          >
-            LinkedIn
-          </a>
-        </div>
+        <a
+          style={styles.banner}
+          href="https://www.linkedin.com/in/carlospohlod/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img src="images/home/linkedin.png" alt="LinkedIn logo" width={24} height={24} />
+          Learn advanced Ruby with my posts on LinkedIn
+        </a>
 
         <div style={styles.beaconList}>
           {beacons.map((item) => (
