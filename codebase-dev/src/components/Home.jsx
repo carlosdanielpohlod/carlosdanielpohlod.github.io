@@ -82,7 +82,12 @@ const beacons = [
     imageSrc: 'images/home/linkedin.png',
   },
   {
-    label: 'YouTube channel',
+    label: 'YouTube channel (Learn advanced Ruby)',
+    url: 'https://www.youtube.com/@CarlosPohloddev',
+    imageSrc: 'images/home/youtube.png',
+  },
+  {
+    label: '🇧🇷 PT-Br YouTube channel',
     url: 'https://www.youtube.com/@carlospohlod',
     imageSrc: 'images/home/youtube.png',
   },
